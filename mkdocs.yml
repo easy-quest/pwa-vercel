@@ -8,8 +8,8 @@ site_author: russell.t.adams@gmail.com
 #  - 'auto'
 
 # Github repo links, replace this with your repo and url
-repo_name: '/russelltadams/mkdocs-material-pwa-zeit.co'
-repo_url: https://github.com/russelltadams/mkdocs-material-pwa-zeit.co
+repo_name: '/easy-quest/pwa-vercel'
+repo_url: https://github.com/easy-quest/pwa-vercel
 
 # Navigation example, with optional tabs heiarchy turn on
 nav:
