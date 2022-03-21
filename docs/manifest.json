@@ -1,12 +1,11 @@
 {
-  "name" : "Mkdocs Material PWA ",
-  "short_name" : "Mkdocs",
-  "description" : "Mkdocs Material with PWA",
+  "name" : "docs PWA",
+  "short_name" : "docs",
+  "description" : "docs PWA",
   "start_url" : "index.html",
   "scope" : "/",
   "display" : "standalone",
   "orientation" : "portrait",
-  "lang" : "English",
   "icons" : [
       {
         "src": "assets/icons/logo-36.png",
